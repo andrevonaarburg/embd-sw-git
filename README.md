@@ -1,0 +1,1 @@
+# embd-sw-git
